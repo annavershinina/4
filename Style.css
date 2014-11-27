@@ -9,7 +9,7 @@
 	
 	#container {
 		background-color: rgb(88, 88, 88);
-		overflow: hidden;
+		overflow: auto;
 	}
 	
 	#nav {
