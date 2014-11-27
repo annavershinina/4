@@ -1,5 +1,5 @@
 #header {
-		background-color: rgb(189 183 107);
+		background-color: rgb(189,183,107);
 		color: rgb(32, 32, 32); ;
 		text-align: center;
 		font-size: 30px;
@@ -8,18 +8,18 @@
 	}
 	
 	#container {
-		background-color: rgb(238 232 170);
+		background-color: rgb(238,232,170);
 		overflow: auto;
 	}
 	
 	#nav {
-		background-color: rgb(238 232 170);
+		background-color: rgb(238,232,170);
 		width: 30%;
 		float: left;
 	}
 	
 	#content {
-		background-color: rgb(238 221 130);
+		background-color: rgb(238,221,130);
 		width: 67%;
 		float: left;
 		min-height: 500px;
@@ -29,7 +29,7 @@
 	
 	#footer {
 		border-top: 1px solid rgb(24,24,24);
-		background-color: rgb(189 183 107);
+		background-color: rgb(189,183,107);
 		text-align: center;
 		height: 30px;
 		font-size: 16px;
